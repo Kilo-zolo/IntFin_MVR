@@ -1,0 +1,14 @@
+\contentsline {section}{Executive Summary}{2}{}%
+\contentsline {section}{Market View}{2}{}%
+\contentsline {subsection}{AUD/USD}{2}{}%
+\contentsline {subsection}{USD/JPY}{3}{}%
+\contentsline {subsection}{EUR/USD}{5}{}%
+\contentsline {subsection}{GBP/USD}{6}{}%
+\contentsline {section}{Target Portfolio}{7}{}%
+\contentsline {section}{Proposed Target Strategies}{8}{}%
+\contentsline {section}{Appendix}{9}{}%
+\contentsline {subsection}{AUD/USD Quantitative Analysis}{9}{}%
+\contentsline {subsection}{USD/JPY Quantitative Analysis}{12}{}%
+\contentsline {subsection}{EUR/USD Quantitative Analysis}{16}{}%
+\contentsline {subsection}{GBP/USD Quantitative Analysis}{21}{}%
+\contentsline {section}{References}{24}{}%

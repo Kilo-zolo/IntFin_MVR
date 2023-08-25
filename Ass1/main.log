@@ -1,0 +1,397 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.23)  23 AUG 2023 17:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/ebi/Int_Fin/Ass1/main.tex
+(/home/ebi/Int_Fin/Ass1/main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count193
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen141
+\lightrulewidth=\dimen142
+\cmidrulewidth=\dimen143
+\belowrulesep=\dimen144
+\belowbottomsep=\dimen145
+\aboverulesep=\dimen146
+\abovetopsep=\dimen147
+\cmidrulesep=\dimen148
+\cmidrulekern=\dimen149
+\defaultaddspace=\dimen150
+\@cmidla=\count194
+\@cmidlb=\count195
+\@aboverulesep=\dimen151
+\@belowrulesep=\dimen152
+\@thisruleclass=\count196
+\@lastruleclass=\count197
+\@thisrulewidth=\dimen153
+) (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box50
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen154
+\scratchbox=\box51
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen155
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 22.
+ (./main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (20.83398pt too wide) in paragraph at lines 29--30
+\OT1/cmr/m/n/10 The re-port com-pre-hen-sively anal-y-ses four key cur-rency pairs: AUD/USD, USD/JPY,
+ []
+
+<graphs/AUDinflation-historical.png, id=11, 1060.71281pt x 236.38312pt>
+File: graphs/AUDinflation-historical.png Graphic file (type png)
+<use graphs/AUDinflation-historical.png>
+Package pdftex.def Info: graphs/AUDinflation-historical.png  used on input line 41.
+(pdftex.def)             Requested size: 371.25505pt x 82.73532pt.
+
+Overfull \hbox (26.25505pt too wide) in paragraph at lines 41--42
+ [][] 
+ []
+
+<graphs/USDinflation-historical.png, id=13, 1075.76906pt x 239.39438pt>
+File: graphs/USDinflation-historical.png Graphic file (type png)
+<use graphs/USDinflation-historical.png>
+Package pdftex.def Info: graphs/USDinflation-historical.png  used on input line 52.
+(pdftex.def)             Requested size: 376.52481pt x 83.78928pt.
+
+Overfull \hbox (31.52481pt too wide) in paragraph at lines 52--53
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+[2 <./graphs/AUDinflation-historical.png> <./graphs/USDinflation-historical.png>]
+<graphs/USDinflation-forecast.png, id=20, 1238.37656pt x 329.73187pt>
+File: graphs/USDinflation-forecast.png Graphic file (type png)
+<use graphs/USDinflation-forecast.png>
+Package pdftex.def Info: graphs/USDinflation-forecast.png  used on input line 61.
+(pdftex.def)             Requested size: 371.51584pt x 98.92032pt.
+
+Overfull \hbox (26.51584pt too wide) in paragraph at lines 61--62
+ [][] 
+ []
+
+<graphs/AUDinflation-forecast.png, id=21, 1239.12938pt x 326.72063pt>
+File: graphs/AUDinflation-forecast.png Graphic file (type png)
+<use graphs/AUDinflation-forecast.png>
+Package pdftex.def Info: graphs/AUDinflation-forecast.png  used on input line 68.
+(pdftex.def)             Requested size: 371.74168pt x 98.01694pt.
+
+Overfull \hbox (26.74168pt too wide) in paragraph at lines 68--69
+ [][] 
+ []
+
+<graphs/JPY-CPI.png, id=22, 590.205pt x 240.9pt>
+File: graphs/JPY-CPI.png Graphic file (type png)
+<use graphs/JPY-CPI.png>
+Package pdftex.def Info: graphs/JPY-CPI.png  used on input line 84.
+(pdftex.def)             Requested size: 295.10178pt x 120.44969pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphs/JPY-forecastedCPI.png, id=23, 755.07094pt x 325.215pt>
+File: graphs/JPY-forecastedCPI.png Graphic file (type png)
+<use graphs/JPY-forecastedCPI.png>
+Package pdftex.def Info: graphs/JPY-forecastedCPI.png  used on input line 91.
+(pdftex.def)             Requested size: 302.02303pt x 130.0837pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./graphs/USDinflation-forecast.png> <./graphs/AUDinflation-forecast.png>]
+<graphs/JPY-GDP.png, id=29, 590.95781pt x 237.88875pt>
+File: graphs/JPY-GDP.png Graphic file (type png)
+<use graphs/JPY-GDP.png>
+Package pdftex.def Info: graphs/JPY-GDP.png  used on input line 100.
+(pdftex.def)             Requested size: 295.47818pt x 118.94408pt.
+ [4 <./graphs/JPY-CPI.png> <./graphs/JPY-forecastedCPI.png> <./graphs/JPY-GDP.png>]
+<graphs/EUR- Inflation Historical.png, id=36, 525.46312pt x 256.70906pt>
+File: graphs/EUR- Inflation Historical.png Graphic file (type png)
+<use graphs/EUR- Inflation Historical.png>
+Package pdftex.def Info: graphs/EUR- Inflation Historical.png  used on input line 115.
+(pdftex.def)             Requested size: 262.73091pt x 128.3542pt.
+<graphs/Eur-GDP.png, id=37, 591.71063pt x 236.38312pt>
+File: graphs/Eur-GDP.png Graphic file (type png)
+<use graphs/Eur-GDP.png>
+Package pdftex.def Info: graphs/Eur-GDP.png  used on input line 122.
+(pdftex.def)             Requested size: 295.85458pt x 118.19127pt.
+<graphs/Us-GDP.png, id=38, 593.21625pt x 237.13594pt>
+File: graphs/Us-GDP.png Graphic file (type png)
+<use graphs/Us-GDP.png>
+Package pdftex.def Info: graphs/Us-GDP.png  used on input line 129.
+(pdftex.def)             Requested size: 296.60739pt x 118.56767pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./graphs/EUR- Inflation Historical.png> <./graphs/Eur-GDP.png>]
+<graphs/GBP-SpotRate.png, id=44, 799.48688pt x 627.84563pt>
+File: graphs/GBP-SpotRate.png Graphic file (type png)
+<use graphs/GBP-SpotRate.png>
+Package pdftex.def Info: graphs/GBP-SpotRate.png  used on input line 142.
+(pdftex.def)             Requested size: 279.8246pt x 219.74925pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./graphs/Us-GDP.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+[7 <./graphs/GBP-SpotRate.png>] [8]
+<graphs/appendix1.png, id=57, 162.6075pt x 949.29657pt>
+File: graphs/appendix1.png Graphic file (type png)
+<use graphs/appendix1.png>
+Package pdftex.def Info: graphs/appendix1.png  used on input line 179.
+(pdftex.def)             Requested size: 81.30354pt x 474.64713pt.
+ [9 <./graphs/appendix1.png>]
+<graphs/appendix2-Fundamentals.png, id=62, 569.87906pt x 963.6pt>
+File: graphs/appendix2-Fundamentals.png Graphic file (type png)
+<use graphs/appendix2-Fundamentals.png>
+Package pdftex.def Info: graphs/appendix2-Fundamentals.png  used on input line 189.
+(pdftex.def)             Requested size: 284.93883pt x 481.79883pt.
+<graphs/appendix2-FunReg.png, id=63, 570.63188pt x 246.9225pt>
+File: graphs/appendix2-FunReg.png Graphic file (type png)
+<use graphs/appendix2-FunReg.png>
+Package pdftex.def Info: graphs/appendix2-FunReg.png  used on input line 195.
+(pdftex.def)             Requested size: 285.31525pt x 123.46094pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./graphs/appendix2-Fundamentals.png>]
+<graphs/appendix3-Technical.png, id=68, 274.02374pt x 965.10562pt>
+File: graphs/appendix3-Technical.png Graphic file (type png)
+<use graphs/appendix3-Technical.png>
+Package pdftex.def Info: graphs/appendix3-Technical.png  used on input line 205.
+(pdftex.def)             Requested size: 137.01154pt x 482.55164pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./graphs/appendix2-FunReg.png>]
+<graphs/app4.png, id=73, 151.3153pt x 855.195pt>
+File: graphs/app4.png Graphic file (type png)
+<use graphs/app4.png>
+Package pdftex.def Info: graphs/app4.png  used on input line 217.
+(pdftex.def)             Requested size: 75.65746pt x 427.59647pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./graphs/appendix3-Technical.png>]
+<graphs/app5.png, id=78, 522.45187pt x 867.24pt>
+File: graphs/app5.png Graphic file (type png)
+<use graphs/app5.png>
+Package pdftex.def Info: graphs/app5.png  used on input line 227.
+(pdftex.def)             Requested size: 261.2253pt x 433.61894pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphs/app5(1).png, id=79, 520.19344pt x 244.66406pt>
+File: graphs/app5(1).png Graphic file (type png)
+<use graphs/app5(1).png>
+Package pdftex.def Info: graphs/app5(1).png  used on input line 233.
+(pdftex.def)             Requested size: 260.09607pt x 122.33173pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./graphs/app4.png>] [14 <./graphs/app5.png>] [15 <./graphs/app5(1).png>]
+<graphs/app6.png, id=93, 230.36063pt x 867.99281pt>
+File: graphs/app6.png Graphic file (type png)
+<use graphs/app6.png>
+Package pdftex.def Info: graphs/app6.png  used on input line 243.
+(pdftex.def)             Requested size: 115.18002pt x 433.99535pt.
+<graphs/app7.png, id=94, 183.68625pt x 949.29657pt>
+File: graphs/app7.png Graphic file (type png)
+<use graphs/app7.png>
+Package pdftex.def Info: graphs/app7.png  used on input line 254.
+(pdftex.def)             Requested size: 91.84288pt x 474.64713pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16
+
+ <./graphs/app6.png>]
+<graphs/app8.png, id=99, 569.12625pt x 962.09438pt>
+File: graphs/app8.png Graphic file (type png)
+<use graphs/app8.png>
+Package pdftex.def Info: graphs/app8.png  used on input line 264.
+(pdftex.def)             Requested size: 284.56242pt x 481.046pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<graphs/app8(1).png, id=100, 568.37344pt x 271.76532pt>
+File: graphs/app8(1).png Graphic file (type png)
+<use graphs/app8(1).png>
+Package pdftex.def Info: graphs/app8(1).png  used on input line 270.
+(pdftex.def)             Requested size: 284.18602pt x 135.88232pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17 <./graphs/app7.png>] [18 <./graphs/app8.png>] [19 <./graphs/app8(1).png>]
+<graphs/app9.png, id=114, 274.77657pt x 964.35281pt>
+File: graphs/app9.png Graphic file (type png)
+<use graphs/app9.png>
+Package pdftex.def Info: graphs/app9.png  used on input line 280.
+(pdftex.def)             Requested size: 137.38794pt x 482.17523pt.
+<graphs/app10.png, id=115, 164.11313pt x 949.29657pt>
+File: graphs/app10.png Graphic file (type png)
+<use graphs/app10.png>
+Package pdftex.def Info: graphs/app10.png  used on input line 291.
+(pdftex.def)             Requested size: 82.05635pt x 474.64713pt.
+ [20
+
+ <./graphs/app9.png>] [21 <./graphs/app10.png>]
+<graphs/app11.png, id=124, 583.42969pt x 964.35281pt>
+File: graphs/app11.png Graphic file (type png)
+<use graphs/app11.png>
+Package pdftex.def Info: graphs/app11.png  used on input line 301.
+(pdftex.def)             Requested size: 291.71413pt x 482.17523pt.
+<graphs/app11(1).png, id=125, 581.17125pt x 272.51813pt>
+File: graphs/app11(1).png Graphic file (type png)
+<use graphs/app11(1).png>
+Package pdftex.def Info: graphs/app11(1).png  used on input line 307.
+(pdftex.def)             Requested size: 290.58492pt x 136.25873pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22 <./graphs/app11.png>]
+<graphs/app12.png, id=130, 246.9225pt x 965.10562pt>
+File: graphs/app12.png Graphic file (type png)
+<use graphs/app12.png>
+Package pdftex.def Info: graphs/app12.png  used on input line 313.
+(pdftex.def)             Requested size: 123.46094pt x 482.55164pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23 <./graphs/app11(1).png>] [24 <./graphs/app12.png>] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 1980 strings out of 480247
+ 33334 string characters out of 5896151
+ 315271 words of memory out of 5000000
+ 19912 multiletter control sequences out of 15000+600000
+ 473849 words of font info for 43 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 55i,8n,62p,679b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/ebi/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on main.pdf (24 pages, 1198768 bytes).
+PDF statistics:
+ 166 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+
