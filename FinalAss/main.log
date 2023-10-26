@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.23)  26 OCT 2023 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.23)  26 OCT 2023 16:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -71,39 +71,148 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisrulewidth=\dimen153
 ) (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen154
+\Hy@linkcounter=\count198
+\Hy@pagecounter=\count199
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel languages
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count266
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count267
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen155
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count268
+\Field@Width=\dimen156
+\Fld@charsize=\dimen157
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count269
+\c@Item=\count270
+\c@Hfootnote=\count271
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count272
+\c@bookmark@seq@number=\count273
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip51
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count198
+\l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box50
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count199
-\scratchdimen=\dimen154
+\scratchcounter=\count275
+\scratchdimen=\dimen158
 \scratchbox=\box51
-\nofMPsegments=\count266
-\nofMParguments=\count267
+\nofMPsegments=\count276
+\nofMParguments=\count277
 \everyMPshowfont=\toks19
-\MPscratchCnt=\count268
-\MPscratchDim=\dimen155
-\MPnumerator=\count269
-\makeMPintoPDFobject=\count270
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen159
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
 \everyMPtoPDFconversion=\toks20
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -111,25 +220,37 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+Package hyperref Info: Link coloring OFF on input line 23.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count281
+)
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
+ (./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <6> on input line 25.
  (./main.toc)
-\tf@toc=\write3
-\openout3 = `main.toc'.
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
 
  []
 
@@ -138,12 +259,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
@@ -154,141 +275,146 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
 [3]
-<graphs/AUDNZD.png, id=17, 619.56468pt x 297.36093pt>
+<graphs/AUDNZD.png, id=54, 619.56468pt x 297.36093pt>
 File: graphs/AUDNZD.png Graphic file (type png)
 <use graphs/AUDNZD.png>
-Package pdftex.def Info: graphs/AUDNZD.png  used on input line 53.
+Package pdftex.def Info: graphs/AUDNZD.png  used on input line 55.
 (pdftex.def)             Requested size: 309.78157pt x 148.6801pt.
  [4 <./graphs/AUDNZD.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-<graphs/AUDGBP.png, id=23, 409.53pt x 292.84406pt>
+<graphs/AUDGBP.png, id=61, 409.53pt x 292.84406pt>
 File: graphs/AUDGBP.png Graphic file (type png)
 <use graphs/AUDGBP.png>
-Package pdftex.def Info: graphs/AUDGBP.png  used on input line 64.
+Package pdftex.def Info: graphs/AUDGBP.png  used on input line 66.
 (pdftex.def)             Requested size: 286.66904pt x 204.98944pt.
 [5 <./graphs/AUDGBP.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
-<graphs/AUDEUR.png, id=28, 622.57594pt x 298.86656pt>
+<graphs/AUDEUR.png, id=68, 622.57594pt x 298.86656pt>
 File: graphs/AUDEUR.png Graphic file (type png)
 <use graphs/AUDEUR.png>
-Package pdftex.def Info: graphs/AUDEUR.png  used on input line 83.
+Package pdftex.def Info: graphs/AUDEUR.png  used on input line 85.
 (pdftex.def)             Requested size: 311.2872pt x 149.4329pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 
-Overfull \hbox (4.49951pt too wide) in paragraph at lines 98--99
+Overfull \hbox (4.49951pt too wide) in paragraph at lines 100--101
 \OT1/cmr/m/n/10 Firm ABC has a widespread in-ter-na-tional pres-ence, ex-pos-ing it to many currency-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
 [7 <./graphs/AUDEUR.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 
-Overfull \hbox (2.77605pt too wide) in paragraph at lines 145--146
+Overfull \hbox (2.77605pt too wide) in paragraph at lines 147--148
 []\OT1/cmr/m/n/10 Forward Con-tracts heighten the NZD Re-ceiv-able out-come by \TS1/cmr/m/n/10 $\OT1/cmr/m/n/10 1,787,000.00,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
-<forecasts/NZD.png, id=41, 805.50937pt x 981.6675pt>
+<forecasts/NZD.png, id=89, 805.50937pt x 981.6675pt>
 File: forecasts/NZD.png Graphic file (type png)
 <use forecasts/NZD.png>
-Package pdftex.def Info: forecasts/NZD.png  used on input line 157.
+Package pdftex.def Info: forecasts/NZD.png  used on input line 159.
 (pdftex.def)             Requested size: 402.7537pt x 490.83255pt.
 
-Overfull \hbox (57.7537pt too wide) in paragraph at lines 157--158
+Overfull \hbox (57.7537pt too wide) in paragraph at lines 159--160
  [][] 
  []
 
@@ -296,63 +422,63 @@ Overfull \hbox (57.7537pt too wide) in paragraph at lines 157--158
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [9]
-<forecasts/GBP.png, id=45, 525.46312pt x 940.26282pt>
+<forecasts/GBP.png, id=97, 525.46312pt x 940.26282pt>
 File: forecasts/GBP.png Graphic file (type png)
 <use forecasts/GBP.png>
-Package pdftex.def Info: forecasts/GBP.png  used on input line 166.
+Package pdftex.def Info: forecasts/GBP.png  used on input line 168.
 (pdftex.def)             Requested size: 262.73091pt x 470.13026pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [10 <./forecasts/NZD.png>]
-<forecasts/USD.png, id=50, 541.27219pt x 931.22906pt>
+<forecasts/USD.png, id=104, 541.27219pt x 931.22906pt>
 File: forecasts/USD.png Graphic file (type png)
 <use forecasts/USD.png>
-Package pdftex.def Info: forecasts/USD.png  used on input line 175.
+Package pdftex.def Info: forecasts/USD.png  used on input line 177.
 (pdftex.def)             Requested size: 270.63542pt x 465.61339pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [11 <./forecasts/GBP.png>]
-<forecasts/JPY.png, id=55, 517.935pt x 940.26282pt>
+<forecasts/JPY.png, id=111, 517.935pt x 940.26282pt>
 File: forecasts/JPY.png Graphic file (type png)
 <use forecasts/JPY.png>
-Package pdftex.def Info: forecasts/JPY.png  used on input line 184.
+Package pdftex.def Info: forecasts/JPY.png  used on input line 186.
 (pdftex.def)             Requested size: 258.96686pt x 470.13026pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [12 <./forecasts/USD.png>]
-<forecasts/EUR.png, id=60, 569.87906pt x 933.4875pt>
+<forecasts/EUR.png, id=118, 569.87906pt x 933.4875pt>
 File: forecasts/EUR.png Graphic file (type png)
 <use forecasts/EUR.png>
-Package pdftex.def Info: forecasts/EUR.png  used on input line 193.
+Package pdftex.def Info: forecasts/EUR.png  used on input line 195.
 (pdftex.def)             Requested size: 284.93883pt x 466.74261pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [13 <./forecasts/JPY.png>]
-<forecasts/CAD.png, id=66, 569.12625pt x 934.24031pt>
+<forecasts/CAD.png, id=126, 569.12625pt x 934.24031pt>
 File: forecasts/CAD.png Graphic file (type png)
 <use forecasts/CAD.png>
-Package pdftex.def Info: forecasts/CAD.png  used on input line 202.
+Package pdftex.def Info: forecasts/CAD.png  used on input line 204.
 (pdftex.def)             Requested size: 284.56242pt x 467.11902pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [14 <./forecasts/EUR.png>]
-<hedge/pay-EUR.png, id=71, 742.27313pt x 216.81pt>
+<hedge/pay-EUR.png, id=133, 742.27313pt x 216.81pt>
 File: hedge/pay-EUR.png Graphic file (type png)
 <use hedge/pay-EUR.png>
-Package pdftex.def Info: hedge/pay-EUR.png  used on input line 209.
+Package pdftex.def Info: hedge/pay-EUR.png  used on input line 211.
 (pdftex.def)             Requested size: 371.13567pt x 108.40472pt.
 
-Overfull \hbox (26.13567pt too wide) in paragraph at lines 209--210
+Overfull \hbox (26.13567pt too wide) in paragraph at lines 211--212
  [][] 
  []
 
@@ -360,33 +486,33 @@ Overfull \hbox (26.13567pt too wide) in paragraph at lines 209--210
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [15 <./forecasts/CAD.png>]
-<hedge/pay-JPY.png, id=76, 756.57657pt x 241.65282pt>
+<hedge/pay-JPY.png, id=140, 756.57657pt x 241.65282pt>
 File: hedge/pay-JPY.png Graphic file (type png)
 <use hedge/pay-JPY.png>
-Package pdftex.def Info: hedge/pay-JPY.png  used on input line 216.
+Package pdftex.def Info: hedge/pay-JPY.png  used on input line 218.
 (pdftex.def)             Requested size: 378.28735pt x 120.82611pt.
 
-Overfull \hbox (33.28735pt too wide) in paragraph at lines 216--217
+Overfull \hbox (33.28735pt too wide) in paragraph at lines 218--219
  [][] 
  []
 
-<hedge/pay-USD.png, id=77, 750.55406pt x 228.10219pt>
+<hedge/pay-USD.png, id=141, 750.55406pt x 228.10219pt>
 File: hedge/pay-USD.png Graphic file (type png)
 <use hedge/pay-USD.png>
-Package pdftex.def Info: hedge/pay-USD.png  used on input line 223.
+Package pdftex.def Info: hedge/pay-USD.png  used on input line 225.
 (pdftex.def)             Requested size: 375.27611pt x 114.0508pt.
 
-Overfull \hbox (30.27611pt too wide) in paragraph at lines 223--224
+Overfull \hbox (30.27611pt too wide) in paragraph at lines 225--226
  [][] 
  []
 
-<hedge/rec-CAD.png, id=78, 760.34062pt x 276.28218pt>
+<hedge/rec-CAD.png, id=142, 760.34062pt x 276.28218pt>
 File: hedge/rec-CAD.png Graphic file (type png)
 <use hedge/rec-CAD.png>
-Package pdftex.def Info: hedge/rec-CAD.png  used on input line 230.
+Package pdftex.def Info: hedge/rec-CAD.png  used on input line 232.
 (pdftex.def)             Requested size: 380.16937pt x 138.14075pt.
 
-Overfull \hbox (35.16937pt too wide) in paragraph at lines 230--231
+Overfull \hbox (35.16937pt too wide) in paragraph at lines 232--233
  [][] 
  []
 
@@ -394,53 +520,96 @@ Overfull \hbox (35.16937pt too wide) in paragraph at lines 230--231
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [16 <./hedge/pay-EUR.png> <./hedge/pay-JPY.png> <./hedge/pay-USD.png>]
-<hedge/rec-EUR.png, id=85, 751.30687pt x 216.81pt>
+<hedge/rec-EUR.png, id=153, 751.30687pt x 216.81pt>
 File: hedge/rec-EUR.png Graphic file (type png)
 <use hedge/rec-EUR.png>
-Package pdftex.def Info: hedge/rec-EUR.png  used on input line 237.
+Package pdftex.def Info: hedge/rec-EUR.png  used on input line 239.
 (pdftex.def)             Requested size: 375.65251pt x 108.40472pt.
 
-Overfull \hbox (30.65251pt too wide) in paragraph at lines 237--238
+Overfull \hbox (30.65251pt too wide) in paragraph at lines 239--240
  [][] 
  []
 
-<hedge/rec-GBP.png, id=86, 761.09344pt x 240.9pt>
+<hedge/rec-GBP.png, id=154, 761.09344pt x 240.9pt>
 File: hedge/rec-GBP.png Graphic file (type png)
 <use hedge/rec-GBP.png>
-Package pdftex.def Info: hedge/rec-GBP.png  used on input line 244.
+Package pdftex.def Info: hedge/rec-GBP.png  used on input line 246.
 (pdftex.def)             Requested size: 380.54579pt x 120.44969pt.
 
-Overfull \hbox (35.54579pt too wide) in paragraph at lines 244--245
+Overfull \hbox (35.54579pt too wide) in paragraph at lines 246--247
  [][] 
  []
 
-<hedge/rec-NZD.png, id=87, 761.84625pt x 217.5628pt>
+<hedge/rec-NZD.png, id=155, 761.84625pt x 217.5628pt>
 File: hedge/rec-NZD.png Graphic file (type png)
 <use hedge/rec-NZD.png>
-Package pdftex.def Info: hedge/rec-NZD.png  used on input line 251.
+Package pdftex.def Info: hedge/rec-NZD.png  used on input line 253.
 (pdftex.def)             Requested size: 380.9222pt x 108.78113pt.
 
-Overfull \hbox (35.9222pt too wide) in paragraph at lines 251--252
+Overfull \hbox (35.9222pt too wide) in paragraph at lines 253--254
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[17 <./hedge/rec-CAD.png> <./hedge/rec-EUR.png> <./hedge/rec-GBP.png>] [18 <./hedge/rec-NZD.png>] (./main.aux) ) 
+[17 <./hedge/rec-CAD.png> <./hedge/rec-EUR.png> <./hedge/rec-GBP.png>]
+Overfull \hbox (59.71379pt too wide) in paragraph at lines 263--265
+\OT1/cmr/m/n/10 cessed 21 Oc-to-ber 2023. []https://www.agriculture.gov.au/abares/products/insights/snapshot-
+ []
+
+
+Overfull \hbox (322.79008pt too wide) in paragraph at lines 268--270
+\OT1/cmr/m/it/10 ma-chin-ery mar-ket study\OT1/cmr/m/n/10 , ACCC web-site, ac-cessed 24 Oc-to-ber 2023. []https://accc.gov.au/system/files/Agricultural%20machinery%20market%20study%20-
+ []
+
+
+Overfull \hbox (53.66867pt too wide) in paragraph at lines 273--275
+\OT1/cmr/m/it/10 2023 and be-yond\OT1/cmr/m/n/10 , finder web-site, ac-cessed 24 Oc-to-ber 2023. []https://www.finder.com.au/aud-
+ []
+
+
+Overfull \hbox (42.82483pt too wide) in paragraph at lines 278--280
+\OT1/cmr/m/n/10 web-site, ac-cessed 18 Oc-to-ber 2023. []https://www.ibisworld.com/au/industry/agricultural-
+ []
+
+
+Overfull \hbox (254.9456pt too wide) in paragraph at lines 283--285
+\OT1/cmr/m/it/10 Geopo-lit-i-cal Mael-strom\OT1/cmr/m/n/10 , KPMG web-site, ac-cessed 24 Oc-to-ber 2023. []https://assets.kpmg.com/content/dam/kpmg/au/pdf/2020/australian-
+ []
+
+
+Overfull \hbox (42.15813pt too wide) in paragraph at lines 288--290
+\OT1/cmr/m/n/10 cessed 21 Oc-to-ber 2023. []https://www.rba.gov.au/education/resources/explainers/causes-
+ []
+
+
+Overfull \hbox (167.92175pt too wide) in paragraph at lines 293--295
+\OT1/cmr/m/it/10 Green-back?\OT1/cmr/m/n/10 , Forbes web-site, ac-cessed 23 Oc-to-ber 2023. []https://www.forbes.com/advisor/au/investing/currencies/aud-
+ []
+
+
+Overfull \hbox (53.46344pt too wide) in paragraph at lines 298--300
+\OT1/cmr/m/it/10 ment?\OT1/cmr/m/n/10 , Wal-let-Investor Web-site, ac-cessed 23 Oc-to-ber 2023. []https://walletinvestor.com/forex-
+ []
+
+[18 <./hedge/rec-NZD.png>] (./main.aux)
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 2578EF94D369F489355FFAFE6584447E;1141.
+ ) 
 Here is how much of TeX's memory you used:
- 1893 strings out of 480247
- 30505 string characters out of 5896151
- 318261 words of memory out of 5000000
- 19834 multiletter control sequences out of 15000+600000
- 473849 words of font info for 43 fonts, out of 8000000 for 9000
+ 8767 strings out of 480247
+ 137988 string characters out of 5896151
+ 423978 words of memory out of 5000000
+ 26550 multiletter control sequences out of 15000+600000
+ 474195 words of font info for 44 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,7n,62p,1054b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/ebi/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (18 pages, 1086627 bytes).
+ 60i,7n,63p,1054b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/ebi/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (18 pages, 1111269 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
