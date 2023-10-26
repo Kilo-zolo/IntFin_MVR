@@ -1,2 +1,5 @@
 \contentsline {section}{Executive Summary}{2}{}%
 \contentsline {section}{Economic and Geopolitical Exposure Impact on Firm ABC}{2}{}%
+\contentsline {section}{Forecasted Future Spot Rates for Firm ABC}{3}{}%
+\contentsline {section}{Evaluation of Firm ABC's exposure}{7}{}%
+\contentsline {section}{Appendices}{9}{}%

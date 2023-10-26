@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.23)  24 OCT 2023 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.23)  26 OCT 2023 15:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -124,7 +124,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
 
  []
 
@@ -138,30 +138,309 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-[3] (./main.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+[3]
+<graphs/AUDNZD.png, id=17, 619.56468pt x 297.36093pt>
+File: graphs/AUDNZD.png Graphic file (type png)
+<use graphs/AUDNZD.png>
+Package pdftex.def Info: graphs/AUDNZD.png  used on input line 53.
+(pdftex.def)             Requested size: 309.78157pt x 148.6801pt.
+ [4 <./graphs/AUDNZD.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+<graphs/AUDGBP.png, id=23, 409.53pt x 292.84406pt>
+File: graphs/AUDGBP.png Graphic file (type png)
+<use graphs/AUDGBP.png>
+Package pdftex.def Info: graphs/AUDGBP.png  used on input line 64.
+(pdftex.def)             Requested size: 286.66904pt x 204.98944pt.
+[5 <./graphs/AUDGBP.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+<graphs/AUDEUR.png, id=28, 622.57594pt x 298.86656pt>
+File: graphs/AUDEUR.png Graphic file (type png)
+<use graphs/AUDEUR.png>
+Package pdftex.def Info: graphs/AUDEUR.png  used on input line 83.
+(pdftex.def)             Requested size: 311.2872pt x 149.4329pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Overfull \hbox (4.49951pt too wide) in paragraph at lines 98--99
+\OT1/cmr/m/n/10 Firm ABC has a widespread in-ter-na-tional pres-ence, ex-pos-ing it to many currency-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+[7 <./graphs/AUDEUR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+
+Overfull \hbox (2.77605pt too wide) in paragraph at lines 145--146
+[]\OT1/cmr/m/n/10 Forward Con-tracts heighten the NZD Re-ceiv-able out-come by \TS1/cmr/m/n/10 $\OT1/cmr/m/n/10 1,787,000.00,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+<forecasts/NZD.png, id=41, 805.50937pt x 981.6675pt>
+File: forecasts/NZD.png Graphic file (type png)
+<use forecasts/NZD.png>
+Package pdftex.def Info: forecasts/NZD.png  used on input line 157.
+(pdftex.def)             Requested size: 402.7537pt x 490.83255pt.
+
+Overfull \hbox (57.7537pt too wide) in paragraph at lines 157--158
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9]
+<forecasts/GBP.png, id=45, 525.46312pt x 940.26282pt>
+File: forecasts/GBP.png Graphic file (type png)
+<use forecasts/GBP.png>
+Package pdftex.def Info: forecasts/GBP.png  used on input line 166.
+(pdftex.def)             Requested size: 262.73091pt x 470.13026pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./forecasts/NZD.png>]
+<forecasts/USD.png, id=50, 541.27219pt x 931.22906pt>
+File: forecasts/USD.png Graphic file (type png)
+<use forecasts/USD.png>
+Package pdftex.def Info: forecasts/USD.png  used on input line 175.
+(pdftex.def)             Requested size: 270.63542pt x 465.61339pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./forecasts/GBP.png>]
+<forecasts/JPY.png, id=55, 517.935pt x 940.26282pt>
+File: forecasts/JPY.png Graphic file (type png)
+<use forecasts/JPY.png>
+Package pdftex.def Info: forecasts/JPY.png  used on input line 184.
+(pdftex.def)             Requested size: 258.96686pt x 470.13026pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./forecasts/USD.png>]
+<forecasts/EUR.png, id=60, 569.87906pt x 933.4875pt>
+File: forecasts/EUR.png Graphic file (type png)
+<use forecasts/EUR.png>
+Package pdftex.def Info: forecasts/EUR.png  used on input line 193.
+(pdftex.def)             Requested size: 284.93883pt x 466.74261pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./forecasts/JPY.png>]
+<forecasts/CAD.png, id=66, 569.12625pt x 934.24031pt>
+File: forecasts/CAD.png Graphic file (type png)
+<use forecasts/CAD.png>
+Package pdftex.def Info: forecasts/CAD.png  used on input line 202.
+(pdftex.def)             Requested size: 284.56242pt x 467.11902pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14 <./forecasts/EUR.png>]
+<hedge/pay-EUR.png, id=71, 742.27313pt x 216.81pt>
+File: hedge/pay-EUR.png Graphic file (type png)
+<use hedge/pay-EUR.png>
+Package pdftex.def Info: hedge/pay-EUR.png  used on input line 209.
+(pdftex.def)             Requested size: 371.13567pt x 108.40472pt.
+
+Overfull \hbox (26.13567pt too wide) in paragraph at lines 209--210
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./forecasts/CAD.png>]
+<hedge/pay-JPY.png, id=76, 756.57657pt x 241.65282pt>
+File: hedge/pay-JPY.png Graphic file (type png)
+<use hedge/pay-JPY.png>
+Package pdftex.def Info: hedge/pay-JPY.png  used on input line 216.
+(pdftex.def)             Requested size: 378.28735pt x 120.82611pt.
+
+Overfull \hbox (33.28735pt too wide) in paragraph at lines 216--217
+ [][] 
+ []
+
+<hedge/pay-USD.png, id=77, 750.55406pt x 228.10219pt>
+File: hedge/pay-USD.png Graphic file (type png)
+<use hedge/pay-USD.png>
+Package pdftex.def Info: hedge/pay-USD.png  used on input line 223.
+(pdftex.def)             Requested size: 375.27611pt x 114.0508pt.
+
+Overfull \hbox (30.27611pt too wide) in paragraph at lines 223--224
+ [][] 
+ []
+
+<hedge/rec-CAD.png, id=78, 760.34062pt x 276.28218pt>
+File: hedge/rec-CAD.png Graphic file (type png)
+<use hedge/rec-CAD.png>
+Package pdftex.def Info: hedge/rec-CAD.png  used on input line 230.
+(pdftex.def)             Requested size: 380.16937pt x 138.14075pt.
+
+Overfull \hbox (35.16937pt too wide) in paragraph at lines 230--231
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./hedge/pay-EUR.png> <./hedge/pay-JPY.png> <./hedge/pay-USD.png>]
+<hedge/rec-EUR.png, id=85, 751.30687pt x 216.81pt>
+File: hedge/rec-EUR.png Graphic file (type png)
+<use hedge/rec-EUR.png>
+Package pdftex.def Info: hedge/rec-EUR.png  used on input line 237.
+(pdftex.def)             Requested size: 375.65251pt x 108.40472pt.
+
+Overfull \hbox (30.65251pt too wide) in paragraph at lines 237--238
+ [][] 
+ []
+
+<hedge/rec-GBP.png, id=86, 761.09344pt x 240.9pt>
+File: hedge/rec-GBP.png Graphic file (type png)
+<use hedge/rec-GBP.png>
+Package pdftex.def Info: hedge/rec-GBP.png  used on input line 244.
+(pdftex.def)             Requested size: 380.54579pt x 120.44969pt.
+
+Overfull \hbox (35.54579pt too wide) in paragraph at lines 244--245
+ [][] 
+ []
+
+<hedge/rec-NZD.png, id=87, 761.84625pt x 217.5628pt>
+File: hedge/rec-NZD.png Graphic file (type png)
+<use hedge/rec-NZD.png>
+Package pdftex.def Info: hedge/rec-NZD.png  used on input line 251.
+(pdftex.def)             Requested size: 380.9222pt x 108.78113pt.
+
+Overfull \hbox (35.9222pt too wide) in paragraph at lines 251--252
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17 <./hedge/rec-CAD.png> <./hedge/rec-EUR.png> <./hedge/rec-GBP.png>] [18 <./hedge/rec-NZD.png>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 1773 strings out of 480247
- 28150 string characters out of 5896151
- 319259 words of memory out of 5000000
- 19735 multiletter control sequences out of 15000+600000
- 473207 words of font info for 41 fonts, out of 8000000 for 9000
+ 1893 strings out of 480247
+ 30505 string characters out of 5896151
+ 318261 words of memory out of 5000000
+ 19834 multiletter control sequences out of 15000+600000
+ 473849 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,6n,62p,1054b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (3 pages, 81196 bytes).
+ 55i,7n,62p,1054b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/ebi/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on main.pdf (18 pages, 1086244 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 126 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
